@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            Azure WebApp Test Contents
+            Azure WebApp Test Contents - Changed Contents
         </div>
     </form>
 </body>
